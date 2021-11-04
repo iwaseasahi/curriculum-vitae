@@ -39,7 +39,7 @@
 
 * [キリスト教の牧師(見習い)からWebエンジニアに転職した話](https://qiita.com/iwaseasahi/items/1c4fdd47d38f2f2fa45b)
 * [「教会の外で通用する力が何もない」キリスト教牧師見習いが直面した現実。起死回生のエンジニア転職に成功](https://tech-camp.in/note/interviews/32490/)
-* [牧師 → エンジニア → PM になった話](https://qiita.com/iwaseasahi/items/adab9094ea1eafd333dc)
+* [牧師 → エンジニア → PdM になった話](https://qiita.com/iwaseasahi/items/adab9094ea1eafd333dc)
 
 ## 資格
 
