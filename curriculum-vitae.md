@@ -19,7 +19,7 @@
 | 分野 | 種別 |技術群 |
 | :--- | :--- | :--- |
 | フロント | 言語 | JavaScript, TypeScript, CoffeeScript |
-| フロント | ライブラリ | React, ReactNative, JQuery |
+| フロント | ライブラリ | React, ReactNative, jQuery |
 | バックエンド | 言語 | Ruby |
 | バックエンド | フレームワーク | Ruby on Rails |
 | バックエンド | テスト | RSpec |
