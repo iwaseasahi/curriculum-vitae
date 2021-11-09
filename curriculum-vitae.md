@@ -24,10 +24,13 @@
 | バックエンド | フレームワーク | Ruby on Rails |
 | バックエンド | テスト | RSpec |
 | インフラ | AWS | VPC, Route53, EC2, RDS, S3, ALB, CloudFront, ElastiCache(Redis・memcached), SES, IAM, WAF, ACM, CloudWatch, CodeDeploy, ECR, ECS |
-| インフラ | GCP | Stackdrier, BigQuery |
+| インフラ | GCP | Stackdriver, BigQuery |
 | インフラ | IaC | Terraform |
 | データベース | RDBMS | MySQL |
 | データベース | NoSQL | Firebase Realtime Database |
+| その他 | バージョン管理 | Git |
+| その他 | ソースコード管理 | GitHub |
+| その他 | CI/CD | circleci |
 
 ## マネージメント
 
